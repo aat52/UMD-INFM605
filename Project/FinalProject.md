@@ -11,3 +11,5 @@ The first assignment you will have as a group is to choose a set of users to stu
 • A white paper or case study of approximately 2000-3000 words plus references and figures.
 • An educational web site that could be used as a resource to educate people about why a topic is problematic or significant. The text component is not as long as a white paper but should be balanced with the layout and design of the website, focusing on a wide public audience and ensuring content is accessible and easy to understand. If I pulled out the text and ran a word count, it should be detailed (length: 2000+ words), include both depth and breadth of topic coverage, and must include references (using a numbered format in text, e.g., [1][2] and a separate references page on the site.
 • An explainer-style video (~5-8 minutes length for final video cut) that gives a highly visual, succinct overview of the topic. I would only suggest doing this if you have video editing experience because my expectations of the quality will be high. A short report (1000-1500 words) should accompany the video and provide an overview on the topic (including references). 
+
+### Score: 20/20
