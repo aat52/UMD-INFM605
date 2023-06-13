@@ -6,7 +6,7 @@ Groups will choose a collection of people in a particular context (e.g., call ce
 
 The first assignment you will have as a group is to choose a set of users to study. Next, you will create a proposal that will outline what you plan on doing, what the purpose of your study will be, and how you will accomplish your goals. After doing the work, you will write up a report based on your findings. It will include an introduction, brief literature review, purpose of the study, description of what you did (i.e., data collection and analysis methods), findings, recommendations, and conclusions. 
 
-**Potential deliverables for this project include one of the options below: **
+**Potential deliverables for this project include one of the options below:**
 
 • A white paper or case study of approximately 2000-3000 words plus references and figures.
 • An educational web site that could be used as a resource to educate people about why a topic is problematic or significant. The text component is not as long as a white paper but should be balanced with the layout and design of the website, focusing on a wide public audience and ensuring content is accessible and easy to understand. If I pulled out the text and ran a word count, it should be detailed (length: 2000+ words), include both depth and breadth of topic coverage, and must include references (using a numbered format in text, e.g., [1][2] and a separate references page on the site.
