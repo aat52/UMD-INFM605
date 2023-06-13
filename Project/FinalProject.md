@@ -13,3 +13,5 @@ The first assignment you will have as a group is to choose a set of users to stu
 • An explainer-style video (~5-8 minutes length for final video cut) that gives a highly visual, succinct overview of the topic. I would only suggest doing this if you have video editing experience because my expectations of the quality will be high. A short report (1000-1500 words) should accompany the video and provide an overview on the topic (including references). 
 
 ### Score: 20/20
+### Feedback: 
+Well done! Well researched and thoughtful submission. You met all of the requirements of this assignment.
