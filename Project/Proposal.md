@@ -17,3 +17,7 @@ that you don’t have time to accomplish each one. Choose somewhere between 2 an
 5. Schedule and Project Management. Provide a schedule that outlines when you will work on and accomplish various tasks and milestones. Describe who will perform the various tasks (i.e., which team members) and estimate how many hours they will take. Make sure and balance the work so that each team member will share the workload (but feel free to take on specific roles based on your individual skills). You may want to create a Gantt chart to summarize your schedule and work plan. Also include a description of how team members will coordinate their activities (e.g., what technologies you will use to contact each other, if you’ll have regularly scheduled meetings. 1 point
 
 These are the kinds of things I want you to include in your proposal. Remember, this is a great opportunity to get feedback to improve your final project, so the more detail you include in your proposal, the better the feedback will be.
+
+
+### Feedback: 
+This is a great topic and plan. With that said, I would narrow the set of users to UMD students who use Instagram (or something similar). Your current topic of all users is very broad and not achievable within a semester. Let me know if you have any questions.
