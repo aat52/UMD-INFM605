@@ -12,3 +12,6 @@ Finally, you will need to write up your analysis in a 6-8 page, double spaced pa
 Your paper must include the following sections (be sure to put headings for each section: (1) introduction (reference general theories or content about how users access information and user needs) (2.5 points), (2) Methods (describe details of the interview method and analysis, citing the course readings/literature) (5 points) (2) interview findings (description of your interview and the specific information need) (5 points), (3) discussion (analyze and present your findings using frameworks in and citing course readings) (10 points) and (4) conclusions and recommendations (2.5 points).
 
 Assessment: This assignment is graded based on evidence that you have read the required readings and accurately described concepts relevant to this assignment; evidence of critical thinking; connections among/ between readings are original, clearly stated and relevant adherence to the length, formatting, and citation requirements; and clarity and precision of thought in your writing.
+
+
+## Score: 25/25
