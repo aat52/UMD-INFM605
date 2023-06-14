@@ -14,4 +14,4 @@ Your paper must include the following sections (be sure to put headings for each
 Assessment: This assignment is graded based on evidence that you have read the required readings and accurately described concepts relevant to this assignment; evidence of critical thinking; connections among/ between readings are original, clearly stated and relevant adherence to the length, formatting, and citation requirements; and clarity and precision of thought in your writing.
 
 
-## Score: 25/25
+### Score: 25/25
